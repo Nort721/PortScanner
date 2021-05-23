@@ -22,3 +22,7 @@ experiment for fun and learning pourposes and was not aimed at making the best p
 
 however if you are interested in how a script
 like that would work or want to experiment with it feel free to fork the project or download the source code and have fun
+
+# Warning
+Do not scan for open ports of other peoples stuff as thats illegal, only use it either on servers that you own or that you
+got direct permission to scan
