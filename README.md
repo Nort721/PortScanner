@@ -11,7 +11,7 @@ if we choose to do the same task though this time we decide to use 10 threads, w
 to all of these threads meaning each one will scan 100 ports at the same time, effectively reducing the
 time it would take to one minute and 40 seconds which is a huge improvement
 
-![Capture](https://user-images.githubusercontent.com/24839815/119270130-e3efcf00-bc03-11eb-8cde-2e0bb94aa7c8.PNG)
+![Capture](https://user-images.githubusercontent.com/24839815/126829170-c91facbf-10d7-44a2-bd3f-a2f7b20f20b9.PNG)
 
 # Why I made it?
 I made it completely for fun and learning as a short out of interest project, also its been a while since I made something with python
