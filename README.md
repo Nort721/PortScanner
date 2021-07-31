@@ -1,3 +1,5 @@
+![Capture](https://user-images.githubusercontent.com/24839815/127751275-02d9205c-203b-47e5-a6e2-69aca23f42f1.PNG)
+
 # What is it?
 This is a simple multithreaded port scanner script made with python, since it takes at least one second to verify
 if a port is open or closed because of the need to wait for timeout to verify if its closed or the delay is caused by connection lag, this script allows you to choose how many threads
@@ -11,7 +13,6 @@ if we choose to do the same task though this time we decide to use 10 threads, w
 to all of these threads meaning each one will scan 100 ports at the same time, effectively reducing the
 time it would take to one minute and 40 seconds which is a huge improvement
 
-![Capture](https://user-images.githubusercontent.com/24839815/126829170-c91facbf-10d7-44a2-bd3f-a2f7b20f20b9.PNG)
 
 # Why I made it?
 I made it completely for fun and learning as a short out of interest project, also its been a while since I made something with python
